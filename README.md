@@ -1,1 +1,1 @@
-# almytea.github.io
+# github.io
